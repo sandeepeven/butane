@@ -81,8 +81,8 @@ export default function Page() {
 		setLoading(true)
 		if (star) {
 			await updateStarRating(UID, id, 'unseen', star)
+			getDetail()
 		}
-		setLoading(false)
 	}
 
 	if (loading) {
