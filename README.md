@@ -1,7 +1,7 @@
 ## About Project - Butane
 This web app is to keep list of unwatched and watched movies. Uses TMDB.
 
-[![Watch the video](https://raw.githubusercontent.com/sandeepeven/butane/sample.gif)](https://raw.githubusercontent.com/sandeepeven/butane/sample.gif)
+[![Watch the video](https://github.com/sandeepeven/butane/blob/main/sample.gif)](https://github.com/sandeepeven/butane/blob/main/sample.gif)
 
 ## Features
 ---
